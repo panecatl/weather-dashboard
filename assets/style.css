@@ -1,0 +1,27 @@
+body {
+    line-height: 2;
+}
+
+.hidden {
+    display: none;
+}
+
+/* header */
+.navbar {
+    background-color: royalblue;
+}
+
+.navbar .dashboard {
+    font-size: 3rem;
+    color: #ffff;
+    text-align: center;
+    margin: auto;
+}
+
+#daily-weather #conditions img {
+    display: block;
+}
+
+#search-form input {
+    width: 100%;
+}
